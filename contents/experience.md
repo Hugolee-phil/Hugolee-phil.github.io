@@ -1,21 +1,23 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### Academic Presentation
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+- 15th North-South Five Schools Forum for Doctoral Students in Philosophy 第十五屆南北五校哲學博士生論壇, Taipei, 2022
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+- 15th Academic Forum for Philosophy Doctoral Students of Fudan University 第十五屆復旦大學博士生論壇·哲學篇, Shanghai, 2021
 
----
+- 山東大學「猶太文化與多元宗教：回顧與展望」學術研討會, 濟南, 2019
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+- 中國人民大學第一屆「五四杯」全國馬克思主義理論類本科生學術論文競賽學術研討會, 北京, 2019
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+### Work Experience
 
-#### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+- Teaching Assistant, CHIN2252: Chinese Philosophy II: Daoism, HKU, 2025
+
+- Teaching Assistant, CHIN2294: Topics in Chinese Philosophy, HKU, 2024
+
+- Teaching Assistant, Selected Ethics Texts (Anthropology from a Pragmatic Point of View), FDU, 2024
+
+- Teaching Assistant, Critique of Pure Reason, FDU, 2023
+
+- Teaching Assistant, Philosophy of Song, Yuan, Ming and Qing Dynasties, FDU, 2022
+
+- Research Assistant, Center for Contemporary Marxism in Foreign Countries, FDU, 2021-2024
